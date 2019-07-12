@@ -13,8 +13,9 @@
       step3：[下载服务器的json格式的配置文件(如果自己有的话用自己的)](http://106.12.58.33:18888/) 自行注册和购买
       step4: 购买之后，如图所示，找到门户首页 =》 用户中心 =》 我的产品与服务 =》 点击常规配置
 
-      <img src="../images/internet/xingyu.png" width=500 height=125 />
-      将下载下来的json文件拖拽到 Shadowsocks 的安装目录，双击 .exe 文件后就可以愉快的进行网上冲浪和遨游了
+  <img src="../images/internet/xingyu.png" width=500 height=125 />
+
+  将下载下来的json文件拖拽到 Shadowsocks 的安装目录，双击 .exe 文件启动
       
 - mac 上的安装
       setp1、 step2、 step3 同 windows
