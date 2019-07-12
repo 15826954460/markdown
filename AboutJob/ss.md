@@ -30,4 +30,4 @@
 ### 关于 windows 上关闭 Shadowsocks 无法上网的解决
 1. 打开控制面板 =》 网络和Internet =》 网络共享中心 =》 左下角的Internet 选项 =》 顶部选择 链接 =》 下面的局域网设置
 2. 取消下图中的勾勾 点击确定
-<img src="../images/internet/windows/png" width=450 height=450/>
+<img src="../images/internet/windows.png" width=450 height=450 />
