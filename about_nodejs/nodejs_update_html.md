@@ -5,7 +5,7 @@
 
 - 实际开发中，当执行npm run build 的命令后，一般生成如下代码
 eg: 各种 link 和 javascript 标签对一些资源的引用
-<img  src="../images/nodejs/updatehtml/inithtml.png" />
+<img  src="../assets/about_nodejs/update_html/inithtml.png" />
 当资源的引用出错的时候，我们需要提供一个onerro函数，这时候的手动改代码就有苦笑不得了，关键在于每一次都得改
 
 - nodejs操作html文档的脚本
@@ -56,16 +56,16 @@ fs.readFile(filePath, { encoding: 'utf-8' }, function (err, file) {
 ```
 
 - package.json文件中添加脚本命令，如图：
-<img src="../images/nodejs/updatehtml/npm_run.png" />
+<img src="../assets/about_nodejs/update_html/npm_run.png" />
 ```
 通过 npm run node:build 来执行脚本【改脚本必须执行在 npm run build 之后】
 或者 npm run build && npm run node:build
 ```
 
 ###### 打包后的html文件
-<img src="../images/nodejs/updatehtml/node_build.png" />
+<img src="../assets/about_nodejs/update_html/node_build.png" />
 上面所操作的标签都添加了相应的 onerror 方法
 
 
 ---
-分享完毕，感谢您的阅读，您的star是我最好的动力
+分享完毕，感谢您的阅读，您的star是对我最好的尊重和鼓励
